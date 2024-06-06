@@ -14,8 +14,8 @@ public class SharedData
 	
 	/**
 	 * a constructor for the class
-	 * @param array
-	 * @param b
+	 * @param array an array
+	 * @param b an object type int
 	 */
 	public SharedData(ArrayList<Integer> array, int b) {
 		
